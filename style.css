@@ -149,10 +149,7 @@ button {
     height: 500px;
 }
 
-form[action="Select-Pages"] {
+#Select_page_form {
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
     padding: 0px 9px;
 }
-
-
-.page_hover {}
